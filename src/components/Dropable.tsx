@@ -23,10 +23,10 @@ const Wrapper = styled.div`
 const Area = styled.div<IArea>`
   background-color: ${(props) =>
     props.isDraggingOver
-      ? "#ECB390"
+      ? "#DFF6FF"
       : props.draggingFromThis
-      ? "#ECB390"
-      : "#FAD9A1"};
+      ? "#DFF6FF"
+      : "#47b5ff"};
 
   flex-grow: 1;
   transition: background-color 0.3s ease-in-out;

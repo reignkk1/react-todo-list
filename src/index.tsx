@@ -1,4 +1,3 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import { createGlobalStyle, ThemeProvider } from "styled-components";
@@ -38,7 +37,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
   color:black;
-  background:url("https://cdn.pixabay.com/photo/2012/03/01/00/21/bridge-19513_960_720.jpg") no-repeat center;
+  background:url("https://media.istockphoto.com/photos/vertical-ratio-size-of-sunset-background-sky-with-soft-and-blur-picture-id1249608150?k=20&m=1249608150&s=612x612&w=0&h=TAISqXHBtXaKG5eOYd2dOI9szLkBHqYPnnMnWLbZh1g=") no-repeat center;
 	background-size:cover;
   height:100vh;
   width:100%;

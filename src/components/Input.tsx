@@ -12,7 +12,7 @@ const Form = styled.form`
   input {
     width: 400px;
     padding: 10px 20px;
-    border: solid 3px #ca4e79;
+    border: solid 3px #47b5ff;
     outline: none;
     font-size: 20px;
     text-align: center;
@@ -20,8 +20,8 @@ const Form = styled.form`
   button {
     padding: 12.5px;
     cursor: pointer;
-    background-color: #ca4e79;
-    border: solid 3px #ca4e79;
+    background-color: #47b5ff;
+    border: solid 3px #47b5ff;
     border-left: none;
     font-size: 16px;
   }

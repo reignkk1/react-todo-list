@@ -12,7 +12,7 @@ interface ITodoIndex {
 }
 
 const Card = styled.div<ICard>`
-  background-color: ${(props) => (props.isDragging ? "#ECB390" : "white")};
+  background-color: ${(props) => (props.isDragging ? "white" : "white")};
   box-shadow: ${(props) =>
     props.isDragging ? "0px 5px 10px rgba(0,0,0,0.5)" : "none"};
   margin-top: 10px;
